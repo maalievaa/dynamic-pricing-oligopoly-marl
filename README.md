@@ -11,7 +11,7 @@
 - Установить зависимости: `pip install -r requirements.txt`
 
 ## Структура репозитория
-- `main.ipynb` – основной ноутбук с кодом
+- `main_code.ipynb` – основной ноутбук с кодом
 - `data.ipynb` – данные компаний
 - `requirements.txt` – список зависимостей
 - `README.md` – этот файл
