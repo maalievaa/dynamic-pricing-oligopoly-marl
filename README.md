@@ -1,5 +1,3 @@
-# NIR_2026
-
 # MARL Dynamic Pricing Prototype
 
 ## Описание
