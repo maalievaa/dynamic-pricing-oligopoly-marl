@@ -36,4 +36,4 @@ jobs:
       - name: Test notebook execution
         run: |
           pip install nbconvert
-          jupyter nbconvert --to notebook --execute main.ipynb --output executed.ipynb
+          jupyter nbconvert --to notebook --execute main-code.ipynb --output executed.ipynb
