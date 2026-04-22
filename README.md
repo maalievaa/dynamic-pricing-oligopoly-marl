@@ -51,4 +51,4 @@ Total mult-adds (M): 0.02
 ### Netron
 Граф архитектуры DQNNetwork (экспорт из Netron):
 
-![Архитектура DQNNetwork](images/netron_graph.png)
+![Архитектура DQNNetwork](images/dqn_network.onnx.png)
