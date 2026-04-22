@@ -47,3 +47,8 @@ Non-trainable params: 0
 Total mult-adds (M): 0.02
 ==========================================================================================
 ```
+
+### Netron
+Граф архитектуры DQNNetwork (экспорт из Netron):
+
+![Архитектура DQNNetwork](images/netron_graph.png)
